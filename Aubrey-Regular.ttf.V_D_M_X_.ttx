@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <ttFont ttLibVersion="2.4">
 
-  <VDMX>
+  <VDMX raw="True">
     <hexdata>
       00010002 00020101 01010100 00000012
       05e600f8 08ff0008 0006fffe 00090009
@@ -190,7 +190,7 @@
       00ccffcc 00f700cd ffcc00f8 00cdffcc
       00f900cf ffcb00fa 00cfffcb 00fb00d0
       ffcb00fc 00d0ffcb 00fd00d2 ffcb00fe
-      00d3ffca 00ff00d4 ffca 
+      00d3ffca 00ff00d4 ffca
     </hexdata>
   </VDMX>
 
